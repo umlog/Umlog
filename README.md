@@ -21,8 +21,8 @@ Inchun National University, Computer science & Engineering
 
 
 | <a href="https://github.com/Artu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Artu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Artu's github stats" /></a> | <a href="https://github.com/Artu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artu&layout=compact&theme=buefy&hide_border=true" /></a> |
--->
 | ------------- | ------------- |
+-->
 ## 백준 좀 해라
 
 
