@@ -8,6 +8,9 @@ Sunrin Internet High School, Software Division
 - **인천대학교 컴퓨터공학부** 재학 중 (2023~)
 Inchun National University, Computer science & Engineering
 
+- **팀 브로스픽 메인개발자** (2025.12~)
+Team Bro's Pick main Tech Lead
+
  ### 기술 
 - **핵심**   Android(*Java*, *Kotlin*)
 - **지엽**   *Python*, *JavaScript*
