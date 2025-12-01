@@ -12,7 +12,7 @@ Inchun National University, Computer science & Engineering
 Team Bro's Pick main Tech Lead
 
  ### 기술 
-- **핵심**   Android(*Java*, *Kotlin*)
+- **핵심**   Android(*Java*, *Kotlin*), Flutter(*dart*)
 - **지엽**   *Python*, *JavaScript*
 - **공부중**   *Jetpack Compose*
 
