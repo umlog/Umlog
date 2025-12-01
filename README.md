@@ -14,13 +14,14 @@ Inchun National University, Computer science & Engineering
 - **공부중**   *Jetpack Compose*
 
 ### 블로그
-<!-- - [Artu의 블로그](https://jiyoungjung.hashnode.dev/) *written by Hashnode* -->
+<!-- - [Umlog의 블로그](https://jiyoungjung.hashnode.dev/) *written by Hashnode* -->
 
-## 나의 개발 일지
+<!-- ## 나의 개발 일지
 
 
 
 | <a href="https://github.com/Artu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Artu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Artu's github stats" /></a> | <a href="https://github.com/Artu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artu&layout=compact&theme=buefy&hide_border=true" /></a> |
+-->
 | ------------- | ------------- |
 ## 백준 좀 해라
 
